@@ -14,16 +14,14 @@ body {
 
 ul{
 	font-family:ShadowsIntoLight-Regular;
-	
+	background-color: gray;
 }
 	
 li{
-text-align: center;
-	display : inline-block;
-	width: 50px;
-	height: 50px;
-	padding: 5px;
 	
-	background: gray;
+	display : inline;
+	width: 200px;
+	height: 50px;
+	padding: 5px;	
 }
 
