@@ -1,5 +1,5 @@
 @font-face{
-	src: url(font/ShadowsIntoLight-Regular.tff);
+	src: url(font/ShadowsIntoLight-Regular.ttf);
 	font-family: ShadowsIntoLight-Regular;
 }
 
@@ -14,7 +14,7 @@ body
 
 ul
 {
-	font-family:'ShadowsIntoLight-Regular';
+	font-family:ShadowsIntoLight-Regular;
 	
 }
 	
