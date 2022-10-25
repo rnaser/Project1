@@ -13,12 +13,13 @@ body {
 
 
 ul{
+	color: green;
 	font-family:ShadowsIntoLight-Regular;
 	background-color: gray;
 }
 	
 li{
-	
+	color: green;
 	display : inline;
 	width: 200px;
 	height: 50px;
