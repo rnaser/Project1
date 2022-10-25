@@ -12,9 +12,8 @@ body
 	font-family: Papyrus;
 }
 
-.nav
+body.nav
 {
-	border:2px;
 	font-family:ShadowsIntoLight-Regular;
 }
 	
