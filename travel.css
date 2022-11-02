@@ -9,7 +9,7 @@ body {
 	color: green;
 	background-color: black;
 	font-family: Papyrus;
-	width: 1920px;
+	width: 1500px;
 	
 }
 
@@ -29,18 +29,18 @@ li{
 }
 
 .Imgsizing{
-width : 640px;
-height : 480px;
+width : 400px;
+height : 200px;
 margin: 0;
 
 }
 
 h1{
-	width: 1920px;
+	width: 1500px;
 	
 }
 
 h2{
-	width: 1920px;
+	width: 1500px;
 	
 }
