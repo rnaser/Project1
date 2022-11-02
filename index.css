@@ -12,13 +12,13 @@ body {
 }
 
 
-ul{
+.nav{
 	color: green;
 	font-family:ShadowsIntoLight-Regular;
 	background-color: gray;
 }
 	
-li{
+.nav2{
 	color: green;
 	display : inline;
 	width: 200px;
