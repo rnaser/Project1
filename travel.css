@@ -9,6 +9,8 @@ body {
 	color: green;
 	background-color: black;
 	font-family: Papyrus;
+	width: 1920px;
+	height: 1080px;
 }
 
 
@@ -26,12 +28,18 @@ li{
 	padding: 5px;	
 }
 
-.sizing{
+.Imgsizing{
 width : 640px;
 height : 480px;
 
+}
 
+h1{
+	width: 1920px;
+	height: 1080px;
+}
 
-
-
+h2{
+	width: 1920px;
+	height: 1080px;
 }
