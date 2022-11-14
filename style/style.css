@@ -1,0 +1,104 @@
+@font-face{
+	src: url(font/ShadowsIntoLight-Regular.ttf);
+	font-family: ShadowsIntoLight-Regular;
+}
+
+#book{
+	body {
+	color: green;
+	background-color: black;
+	font-family: Papyrus;
+	width: 75%;
+}
+
+
+ul{
+	color: green;
+	font-family:ShadowsIntoLight-Regular;
+	background-color: gray;
+}
+	
+li{
+	color: green;
+	display : inline;
+	width: 200px;
+	height: 50px;
+	padding: 5px;	
+}
+	
+	
+}
+ 
+#page1{
+body {
+	color: green;
+	background-color: black;
+	font-family: Papyrus;
+	width: 80%;
+}
+
+
+.nav{
+	color: green;
+	font-family:ShadowsIntoLight-Regular;
+	background-color: gray;
+}
+	
+.nav2{
+	color: green;
+	display : inline;
+	width: 200px;
+	height: 50px;
+	padding: 5px;	
+}
+
+
+}
+#travel{
+	body {
+	color: green;
+	background-color: black;
+	font-family: Papyrus;
+	width: 1500px;
+	
+}
+
+
+ul{
+	color: green;
+	font-family:ShadowsIntoLight-Regular;
+	background-color: gray;
+}
+	
+li{
+	color: green;
+	display : inline;
+	width: 200px;
+	height: 50px;
+	padding: 5px;	
+}
+
+.Imgsizing{
+width : 640px;
+height : 480px;
+margin: 0;
+
+}
+
+h1{
+	width: 1500px;
+	
+}
+
+h2{
+	width: 1500px;
+	
+}
+p{
+	width: 1500px;
+}
+	
+	
+	
+	
+}
