@@ -23,19 +23,16 @@ nav{
 	color: green;
 	font-family:ShadowsIntoLight-Regular;
 	background-color: gray;
-	float: left;
 	width: 100%;
-	height: 50px;
+	height: 25px;
 	padding: 5px;
 	
 	
 }
 	
-.nav2{
+nav a{
 	color: green;
-	display : inline;
-	width: 200px;
-	height: 50px;
+	float: left;
 	padding: 5px;	
 }
 
