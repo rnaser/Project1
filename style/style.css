@@ -23,7 +23,8 @@ nav{
 	color: green;
 	font-family:ShadowsIntoLight-Regular;
 	background-color: gray;
-	float
+	float: left;
+	display: inline-block;
 	
 }
 	
