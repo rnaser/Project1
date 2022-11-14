@@ -33,7 +33,8 @@ nav{
 nav a{
 	color: green;
 	float: left;
-	padding: 5px;	
+	padding: 10px;	
+	display: center;
 }
 
 
