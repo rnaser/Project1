@@ -24,6 +24,9 @@ nav{
 	font-family:ShadowsIntoLight-Regular;
 	background-color: gray;
 	float: left;
+	width: 200px;
+	height: 50px;
+	padding: 5px;
 	
 	
 }
