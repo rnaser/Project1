@@ -70,10 +70,10 @@ nav a{
   position: fixed;
 	font-family:"ShadowsIntoLight-Regular";
 	color: blue;
-	float: left;
 	padding: 10px;	
   text-decoration: none;
   text-align: center;
+  font-size: 16px;
 	
 }
 
