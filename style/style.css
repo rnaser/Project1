@@ -70,6 +70,7 @@ nav{
 nav a{
   display: inline-block;
   position: relative;
+  left:50%;
   float: none;
 	font-family:"ShadowsIntoLight-Regular";
 	color: blue;
