@@ -71,6 +71,8 @@ nav a{
 	color: blue;
 	float: left;
 	padding: 10px;	
+  text-decoration: none;
+  text-align: center;
 	
 }
 
