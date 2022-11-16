@@ -58,6 +58,7 @@ margin: 0;
 
 nav{
 	position: fixed;
+  top: 0;
 	background-color: gray;
 	width: 133%;
 	height: 25px;
