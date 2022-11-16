@@ -40,10 +40,12 @@
 	color: green;
 	background-color: black;
 	font-family: "amatic";
+  font-size:10vw;
   
 }
 #custombold{
   font-family: "amaticBold";
+  
   
 }
 .Imgsizing{
