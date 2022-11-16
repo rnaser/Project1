@@ -67,6 +67,7 @@ nav{
 }
 	
 nav a{
+  position: fixed;
 	font-family:"ShadowsIntoLight-Regular";
 	color: blue;
 	float: left;
