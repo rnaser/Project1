@@ -68,7 +68,7 @@ nav{
 }
 	
 nav a{
-  display: block;
+  display: inline-block;
   position: relative;
   float: none;
 	font-family:"ShadowsIntoLight-Regular";
