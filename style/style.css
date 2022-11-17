@@ -29,14 +29,14 @@
 
  
 
-.indexbod {
+.indexbod:not(nav) {
 	color: green;
 	background-color: black;
 	font-family: Papyrus;
 	width: 80%;
 	
 }
-.travelbod{
+.travelbod:not(nav){
 	color: green;
 	background-color: black;
 	font-family: "amatic";
