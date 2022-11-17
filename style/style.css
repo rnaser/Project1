@@ -40,6 +40,7 @@
 	background-color: black;
 	font-family: "amatic";
   font-size:18pt;
+  width:75%;
 }
 
 .Imgsizing{
@@ -47,10 +48,9 @@ width : 640px;
 height : 480px;
 margin: 0;
 position:relative;
-float: right;
 }
 
-nav{
+#nav{
 	position: sticky;
   top: 0;
 	background-color: gray;
@@ -60,7 +60,7 @@ nav{
   margin: 0;
 }
 	
-nav a{
+#nava{
   display: inline-block;
   position: relative;
   left:40%;
