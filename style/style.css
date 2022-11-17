@@ -17,7 +17,7 @@
   
 }
 
-.book:not(naval){
+.book:not(nav){
   width: 75%;
   color: green;
   background-color: black;
@@ -28,19 +28,18 @@
 
  
 
-.indexbod:not(naval){
+.indexbod:not(nav){
 	color: green;
 	background-color: black;
 	font-family: Papyrus;
 	width: 80%;
 	
 }
-.travelbod:not(naval){
+.travelbod:not(nav){
 	color: green;
 	background-color: black;
 	font-family: "amatic";
   font-size:18pt;
-  width:75%;
 }
 
 .Imgsizing{
@@ -50,7 +49,7 @@ margin: 0;
 position:relative;
 }
 
-#naval{
+nav{
 	position: sticky;
   top: 0;
 	background-color: gray;
@@ -60,7 +59,7 @@ position:relative;
   margin: 0;
 }
 	
-#nava{
+nav a{
   display: inline-block;
   position: relative;
   left:40%;
