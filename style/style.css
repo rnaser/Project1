@@ -17,7 +17,7 @@
   
 }
 
-.book{
+.book:not(nav){
   width: 75%;
   color: green;
   background-color: black;
