@@ -1,33 +1,21 @@
 @font-face{
   font-family: "ShadowsIntoLight-Regular";
-	src: url(font/ShadowsIntoLight-Regular.ttf);
-	
-  
+	src: url(font/ShadowsIntoLight-Regular.ttf); 
 }
 @font-face{
   font-family: "amatic";
 	src: url(font/Amatic_SC/AmaticSC-Regular.ttf);
-	
-  
 }
 @font-face{
   font-family: "amaticBold";
-	src: url(font/Amatic_SC/AmaticSC-Bold.ttf);
-	
-  
+	src: url(font/Amatic_SC/AmaticSC-Bold.ttf); 
 }
-
 .book:not(nav){
   width: 75%;
   color: green;
   background-color: black;
   font-family: Papyrus;
 }
-
-
-
- 
-
 .indexbod:not(nav){
 	color: green;
 	background-color: black;
@@ -41,14 +29,12 @@
 	font-family: "amatic";
   font-size:18pt;
 }
-
 .Imgsizing{
 width : 640px;
 height : 480px;
 margin: 0;
 position:relative;
 }
-
 nav{
 	position: sticky;
   top: 0;
@@ -58,7 +44,6 @@ nav{
 	padding: 5px;
   margin: 0;
 }
-	
 nav a{
   display: inline-block;
   position: relative;
@@ -71,6 +56,3 @@ nav a{
   text-align: center;
   font-size: 16px;
 }
-
-
-
