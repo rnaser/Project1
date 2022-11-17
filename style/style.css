@@ -46,6 +46,7 @@
 width : 640px;
 height : 480px;
 margin: 0;
+float: right;
 }
 
 nav{
@@ -55,12 +56,13 @@ nav{
 	width: 133%;
 	height: 25px;
 	padding: 5px;
+  margin: 0;
 }
 	
 nav a{
   display: inline-block;
   position: relative;
-  left:25%;
+  left:40%;
   float: none;
 	font-family:"ShadowsIntoLight-Regular";
 	color: blue;
