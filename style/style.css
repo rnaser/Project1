@@ -17,10 +17,8 @@
   font-family: Papyrus;
 }
 .indexbod:not(nav){
-	color: green;
-	background-color: black;
-	font-family: Papyrus;
-	width: 80%;
+
+
 	
 }
 .travelbod:not(nav){
@@ -56,9 +54,23 @@ nav a{
   text-align: center;
   font-size: 16px;
 }
-@media screen and (max-width: 3000px) {
+@media screen and (max-width: 720px) {
+  /*mobile friendly*/
   .indexbod{
-    color: black !important;
-    background-color: white !important;
+    color: red;
+    background-color: black;
+    font-family: georgian;
+    width: 50%;
+    font-size: 7pt;
+  }
+} 
+@media screen and (min-width: 720px) {
+  /*desktop friendly*/
+  .indexbod{
+    color: green;
+    background-color: black;
+    font-family: Papyrus;
+    width: 80%;
+    font-size:16pt;
   }
 } 
