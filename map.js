@@ -18,8 +18,6 @@ function init(){
 		map: myMap,
 		animation: google.maps.Animation.BOUNCE,
 		icon: 'images/pharaoh.png'
-    width: 8px;
-    height:8px;
 	});
 
 	var contentString = '<h1>IIT Perlstein Hall</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate odit optio, voluptatem placeat odio dignissimos illo magnam esse asperiores voluptas at iure vero eum, nemo aperiam? Ipsam, atque nobis rem.</p>';
