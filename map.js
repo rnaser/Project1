@@ -20,7 +20,7 @@ function init(){
 		icon: 'images/pharaoh.png'
 	});
 
-	var contentString = '<h1>IIT Perlstein Hall</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate odit optio, voluptatem placeat odio dignissimos illo magnam esse asperiores voluptas at iure vero eum, nemo aperiam? Ipsam, atque nobis rem.</p>';
+	var contentString = '<h1>the valley of the kings</h1><p>This area houses many tombs from the new kingdom era of ancient egypt it was the royal burial ground for pharaohs such as Tutankhamun, Seti I, and Ramses II, as well as queens, high priests, and other elites.</p>';
 
 	var infowindow = new google.maps.InfoWindow({
       content: contentString
