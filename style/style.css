@@ -77,7 +77,7 @@ nav a{
 #wrapper {
   width: 850px;
   height: 600px;
-  background-color: #c00;
+  background-color: blue;
   margin:0 auto;
   overflow: hidden;
 }
